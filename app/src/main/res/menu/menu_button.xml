@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:id="@+id/item_btn_rotation" android:title="45도 회전"></item>
-    <item android:id="@+id/item_bg_zoonin" android:title="2배확대"></item>
-    <item android:id="@+id/item_bg_basic" android:title="원래대로"></item>
+    <item android:id="@+id/item_btn_rotation" android:title="45회전"></item>
+    <item android:id="@+id/item_btn_zoomin" android:title="2배확대"></item>
+    <item android:id="@+id/item_btn_basic" android:title="원래대로"></item>
 </menu>
